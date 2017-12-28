@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">App Lock</string>
+
+    <string name="lock_first_btn" formatted="false">Protect(%s)</string>
+
+    <!--图形解锁控件相关-->
+    <string name="lockscreen_access_pattern_cell_added">add a cell</string>
+    <string name="lockscreen_access_pattern_start">Draw pattern again to confirm</string>
+    <string name="lockscreen_access_pattern_detected">Save password</string>
+    <string name="lockscreen_access_pattern_cleared">Delete password</string>
+
+    <string name="lock_recording_intro_header">Set your pattern</string>
+    <string name="lock_settings_help_how_to_record">How to draw an unlock pattern</string>
+    <string name="lock_recording_incorrect_too_short">Connect at least 4 dots. Try again</string>
+    <string name="lock_pattern_entered_header">Recoder</string>
+    <string name="lock_need_to_confirm">Draw pattern again to confirm</string>
+    <string name="lock_need_to_unlock_wrong">Pattern do not match. Please try again.</string>
+    <string name="password_gestrue_tips">Dran an unlock pattern</string>
+    <string name="password_error_count">Pattern do not match. Please try again.</string>
+    <string name="lock_draw_unlock_pattern">Dran an unlock path</string>
+    <string name="lock_enter_pin_code">Dran an unlock pattern</string>
+    <string name="lock_pattern_confirmed_header">Pattern changed successfully</string>
+    <string name="lock_pattern_reset">Clear</string>
+    <string name="cancle_info">Cancel</string>
+    <string name="set_pattern">Dran an unlock pattern</string>
+    <string name="confirm_ino">Confirm your pattern</string>
+    <string name="check_confirm_ino">Use your applock pattern to continue</string>
+    <string name="wrong_confirm">Wrong pattern</string>
+    <string name="search">Search</string>
+    <string name="unlock_toast">Is turned on, lock application is required to open the password</string>
+    <string name="set_info">Settings</string>
+
+
+    <!--数字解锁相关-->
+    <string name="num_create_text_01">Connect at least 4 dots.</string>
+    <string name="num_create_text_02">Try again</string>
+    <string name="num_create_text_03">Pattern do not match. Please try again</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="number_0">0</string>
+    <string name="password_short">Connect at least 4 dots.</string>
+
+    <string-array name="lock_time_array">
+        <item>15 s</item>
+        <item>30 s</item>
+        <item>1 min</item>
+        <item>3 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+        <item>Rightnow</item>
+    </string-array>
+
+    <string name="dialog_tip">Requires the "View app usage" permission</string>
+</resources>
